@@ -13,7 +13,7 @@ public class Prob5 {
 					str.append("짝");
 					check = true;
 				}
-			}
+			} 
 			if (check) {
 				System.out.println(str);
 				check = false;
